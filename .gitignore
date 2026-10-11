@@ -1,0 +1,4 @@
+build/
+vendor/secp256k1/build/
+*.o
+*.a
